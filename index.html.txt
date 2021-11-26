@@ -1,7 +1,11 @@
 <html>
 <body>
 <h1>
+<<<<<<< Updated upstream
 Hallo boy
+=======
+hallo nill
+>>>>>>> Stashed changes
 </h1>
 </body>
 </html>
