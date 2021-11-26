@@ -2,8 +2,8 @@
 <body>
 <h1>
 <<<<<<< Updated upstream
-Hallo boy
-=======
+Hallo
+
 hallo nill
 
 hallo again
